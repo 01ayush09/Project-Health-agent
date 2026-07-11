@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Project Health Dashboard — Live</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header>
+    <h1>Project Health Dashboard</h1>
+    <div class="live-indicator">
+      <span class="dot"></span> Live — auto-refreshing every 4s
+      <span id="server-time"></span>
+    </div>
+  </header>
+
+  <main id="cards">
+    <!-- project cards injected by app.js -->
+  </main>
+
+  <footer>
+    Edit a row in <code>data/project_plans/*_tasks_current.csv</code>, or edit the source
+    <code>.xlsx</code> in <code>data/raw_xlsx/</code>, and save — this page will pick up the
+    change automatically within a few seconds. Nothing here overwrites your official weekly
+    reports in <code>outputs/weekly/</code>.
+  </footer>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
