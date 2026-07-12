@@ -1,0 +1,246 @@
+{
+  "projects": {
+    "Cascade Vendor Onboarding": {
+      "trajectory": [
+        "Amber",
+        "Amber",
+        "Amber",
+        "Amber"
+      ],
+      "week_endings": [
+        "2026-06-05",
+        "2026-06-12",
+        "2026-06-19",
+        "2026-06-26"
+      ],
+      "trend": "stable",
+      "latest_status": "Amber",
+      "latest_narrative": "**Cascade Vendor Onboarding \u2014 Overall status: Amber**\n- Schedule (Amber): 10.0% of tasks are behind schedule \u2014 worth watching.\n- Budget (Amber): Spend is 115% of planned \u2014 overspending.\n- Milestones (Amber): No milestones defined in the plan \u2014 flagged for follow-up.\n- Blockers (Amber): 1 open blocker(s): Vendor unable to provide sandbox credentials for onboarding integration.\n- Sentiment (Amber): Stakeholder tone is neutral.\n\n**Recommended action:** Monitor closely next week; no client-facing escalation needed yet, but flag internally.",
+      "latest_reasons": {
+        "schedule": "10.0% of tasks are behind schedule \u2014 worth watching.",
+        "budget": "Spend is 115% of planned \u2014 overspending.",
+        "milestones": "No milestones defined in the plan \u2014 flagged for follow-up.",
+        "blockers": "1 open blocker(s): Vendor unable to provide sandbox credentials for onboarding integration.",
+        "sentiment": "Stakeholder tone is neutral."
+      },
+      "latest_dimension_labels": {
+        "schedule": "Amber",
+        "budget": "Amber",
+        "milestones": "Amber",
+        "blockers": "Amber",
+        "sentiment": "Amber"
+      },
+      "recommended_action": "Monitor closely next week; no client-facing escalation needed yet, but flag internally."
+    },
+    "Helix ERP Rollout": {
+      "trajectory": [
+        "Red",
+        "Amber",
+        "Amber",
+        "Green"
+      ],
+      "week_endings": [
+        "2026-06-05",
+        "2026-06-12",
+        "2026-06-19",
+        "2026-06-26"
+      ],
+      "trend": "improving",
+      "latest_status": "Green",
+      "latest_narrative": "**Helix ERP Rollout \u2014 Overall status: Green**\n- Schedule (Green): Only 0.0% of tasks are behind schedule.\n- Budget (Green): Spend is on track (102% of planned burn).\n- Milestones (Green): All milestones on track.\n- Blockers (Green): No open blockers.\n- Sentiment (Green): Stakeholder tone is positive.\n\n**Recommended action:** No action needed \u2014 maintain current cadence.",
+      "latest_reasons": {
+        "schedule": "Only 0.0% of tasks are behind schedule.",
+        "budget": "Spend is on track (102% of planned burn).",
+        "milestones": "All milestones on track.",
+        "blockers": "No open blockers.",
+        "sentiment": "Stakeholder tone is positive."
+      },
+      "latest_dimension_labels": {
+        "schedule": "Green",
+        "budget": "Green",
+        "milestones": "Green",
+        "blockers": "Green",
+        "sentiment": "Green"
+      },
+      "recommended_action": "No action needed \u2014 maintain current cadence."
+    },
+    "Meridian Data Migration": {
+      "trajectory": [
+        "Green",
+        "Amber",
+        "Amber",
+        "Red"
+      ],
+      "week_endings": [
+        "2026-06-05",
+        "2026-06-12",
+        "2026-06-19",
+        "2026-06-26"
+      ],
+      "trend": "declining",
+      "latest_status": "Red",
+      "latest_narrative": "**Meridian Data Migration \u2014 Overall status: Red**\n- Schedule (Red): Critical milestone(s) late: Environment Build, Connector Cutover Readiness Review.\n- Budget (Red): Spend is 135% of planned \u2014 significantly overspending.\n- Milestones (Red): 2 milestones are overdue: Environment Build, Connector Cutover Readiness Review.\n- Blockers (Red): Critical blocker(s) open: Critical: vendor unable to deliver API access, now directly blocking cutover readiness.\n- Sentiment (Red): Stakeholder tone is negative and worsening.\n**Escalation flags:** Override: critical blocker open. Override: 2+ milestones overdue. Override: schedule, budget, milestones, blockers scored Red, compounded by negative, worsening sentiment.\n\n**Recommended action:** Escalate the open blocker(s) to the steering committee this week; they are the primary driver of risk.",
+      "latest_reasons": {
+        "schedule": "Critical milestone(s) late: Environment Build, Connector Cutover Readiness Review.",
+        "budget": "Spend is 135% of planned \u2014 significantly overspending.",
+        "milestones": "2 milestones are overdue: Environment Build, Connector Cutover Readiness Review.",
+        "blockers": "Critical blocker(s) open: Critical: vendor unable to deliver API access, now directly blocking cutover readiness.",
+        "sentiment": "Stakeholder tone is negative and worsening."
+      },
+      "latest_dimension_labels": {
+        "schedule": "Red",
+        "budget": "Red",
+        "milestones": "Red",
+        "blockers": "Red",
+        "sentiment": "Red"
+      },
+      "recommended_action": "Escalate the open blocker(s) to the steering committee this week; they are the primary driver of risk."
+    }
+  },
+  "portfolio": {
+    "total_projects": 3,
+    "projects_declining": [
+      "Meridian Data Migration"
+    ],
+    "projects_improving": [
+      "Helix ERP Rollout"
+    ],
+    "projects_stable_red": [],
+    "recurring_blockers": {
+      "Vendor unable to provide sandbox credentials for onboarding integration": {
+        "count": 4,
+        "projects": [
+          "Cascade Vendor Onboarding"
+        ]
+      },
+      "Vendor API access delayed for legacy system connector": {
+        "count": 2,
+        "projects": [
+          "Meridian Data Migration"
+        ]
+      }
+    },
+    "overspending_instances": [
+      {
+        "project": "Cascade Vendor Onboarding",
+        "week_ending": "2026-06-05",
+        "burn_ratio": 1.15,
+        "status_that_week": "Amber"
+      },
+      {
+        "project": "Cascade Vendor Onboarding",
+        "week_ending": "2026-06-12",
+        "burn_ratio": 1.15,
+        "status_that_week": "Amber"
+      },
+      {
+        "project": "Cascade Vendor Onboarding",
+        "week_ending": "2026-06-19",
+        "burn_ratio": 1.15,
+        "status_that_week": "Amber"
+      },
+      {
+        "project": "Cascade Vendor Onboarding",
+        "week_ending": "2026-06-26",
+        "burn_ratio": 1.15,
+        "status_that_week": "Amber"
+      },
+      {
+        "project": "Helix ERP Rollout",
+        "week_ending": "2026-06-12",
+        "burn_ratio": 1.12,
+        "status_that_week": "Amber"
+      },
+      {
+        "project": "Helix ERP Rollout",
+        "week_ending": "2026-06-19",
+        "burn_ratio": 1.11,
+        "status_that_week": "Amber"
+      },
+      {
+        "project": "Meridian Data Migration",
+        "week_ending": "2026-06-12",
+        "burn_ratio": 1.15,
+        "status_that_week": "Amber"
+      },
+      {
+        "project": "Meridian Data Migration",
+        "week_ending": "2026-06-19",
+        "burn_ratio": 1.18,
+        "status_that_week": "Amber"
+      },
+      {
+        "project": "Meridian Data Migration",
+        "week_ending": "2026-06-26",
+        "burn_ratio": 1.35,
+        "status_that_week": "Red"
+      }
+    ],
+    "weeks_with_negative_sentiment": 4,
+    "current_rag_mix": {
+      "Red": 1,
+      "Amber": 1,
+      "Green": 1
+    }
+  },
+  "deck": {
+    "trend_notes": [
+      {
+        "project": "Cascade Vendor Onboarding",
+        "title": "Cascade Vendor Onboarding \u2014 Stable",
+        "body": "Trajectory: Amber \u2192 Amber \u2192 Amber \u2192 Amber. Held steady across all 4 reporting weeks at Amber.",
+        "color_key": "amber"
+      },
+      {
+        "project": "Helix ERP Rollout",
+        "title": "Helix ERP Rollout \u2014 Recovering",
+        "body": "Trajectory: Red \u2192 Amber \u2192 Amber \u2192 Green. Recovered after corrective action; now Green.",
+        "color_key": "green"
+      },
+      {
+        "project": "Meridian Data Migration",
+        "title": "Meridian Data Migration \u2014 Declining",
+        "body": "Trajectory: Green \u2192 Amber \u2192 Amber \u2192 Red. Critical milestone(s) late: Environment Build, Connector Cutover Readiness Review.",
+        "color_key": "red"
+      }
+    ],
+    "risks": [
+      {
+        "title": "Third-Party / Resourcing Dependency Risk",
+        "body": "3 of 3 active projects hit a dependency-related blocker this month \u2014 vendor/third-party dependency (Cascade Vendor Onboarding, Meridian Data Migration); resourcing/ownership gap (Helix ERP Rollout). Different root causes, same pattern: this is a portfolio-level delivery risk, not a one-off, and worth a standing vendor/resourcing escalation path rather than per-project firefighting."
+      },
+      {
+        "title": "Overspend Correlates With Schedule Slip",
+        "body": "Meridian Data Migration's budget burn reached 135% of plan in the week ending 2026-06-26, the same week its overall status was Red \u2014 spend accelerating to chase a slipping date typically front-loads cost without recovering time."
+      },
+      {
+        "title": "Sentiment Is a Leading Indicator, Not a Lagging One",
+        "body": "On Meridian Data Migration, client sentiment turned negative in the week ending 2026-06-12, 2 week(s) before the status flipped to Red on 2026-06-26. Treating sentiment dips as an early-warning trigger \u2014 not just a symptom \u2014 would buy real lead time portfolio-wide."
+      }
+    ],
+    "spotlight_project": "Meridian Data Migration",
+    "spotlight_bottom_line": "Critical milestone(s) late: Environment Build, Connector Cutover Readiness Review. This requires executive-level attention this cycle \u2014 Escalate the open blocker(s) to the steering committee this week; they are the primary driver of risk.",
+    "recommendations": [
+      {
+        "title": "Address the Meridian Data Migration schedule issue this week",
+        "body": "Critical milestone(s) late: Environment Build, Connector Cutover Readiness Review."
+      },
+      {
+        "title": "Act on: Third-Party / Resourcing Dependency Risk",
+        "body": "3 of 3 active projects hit a dependency-related blocker this month \u2014 vendor/third-party dependency (Cascade Vendor Onboarding, Meridian Data Migration); resourcing/ownership gap (Helix ERP Rollout). Different root causes, same pattern: this is a portfolio-level delivery risk, not a one-off, and worth a standing vendor/resourcing escalation path rather than per-project firefighting."
+      },
+      {
+        "title": "Act on: Overspend Correlates With Schedule Slip",
+        "body": "Meridian Data Migration's budget burn reached 135% of plan in the week ending 2026-06-26, the same week its overall status was Red \u2014 spend accelerating to chase a slipping date typically front-loads cost without recovering time."
+      },
+      {
+        "title": "Act on: Sentiment Is a Leading Indicator, Not a Lagging One",
+        "body": "On Meridian Data Migration, client sentiment turned negative in the week ending 2026-06-12, 2 week(s) before the status flipped to Red on 2026-06-26. Treating sentiment dips as an early-warning trigger \u2014 not just a symptom \u2014 would buy real lead time portfolio-wide."
+      },
+      {
+        "title": "Use Helix ERP Rollout's recovery as an internal playbook",
+        "body": "Document what specifically reversed the decline so other PMs facing similar risk patterns can apply it faster."
+      }
+    ]
+  }
+}
