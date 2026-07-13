@@ -1,0 +1,12 @@
+{
+  "name": "project-health-agent-monthly-deck",
+  "version": "1.0.0",
+  "description": "Generates the monthly executive presentation from monthly_summary.json",
+  "private": true,
+  "scripts": {
+    "build": "node build_deck.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}
