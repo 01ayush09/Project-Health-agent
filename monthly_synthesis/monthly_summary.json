@@ -1,0 +1,102 @@
+{
+  "projects": {
+    "Titan (Outokumpu) S2P Implementation": {
+      "trajectory": [
+        "Red"
+      ],
+      "week_endings": [
+        "2026-07-02"
+      ],
+      "trend": "stable",
+      "latest_status": "Red",
+      "latest_narrative": "**Titan (Outokumpu) S2P Implementation \u2014 Overall status: Red**\n- Schedule (Red): Critical milestone(s) late: Configuration and Build phase, Production & Cutover.\n- Budget (Amber): Budget actuals/planned-to-date not provided \u2014 flagged for follow-up.\n- Milestones (Red): 2 milestones are overdue: Configuration and Build phase, Production & Cutover.\n- Blockers (Red): 3 open blockers \u2014 escalating volume of unresolved issues.\n- Sentiment (Amber): Stakeholder tone is negative but not escalating.\n**Escalation flags:** Override: 2+ milestones overdue.\n\n**Recommended action:** Escalate the open blocker(s) to the steering committee this week; they are the primary driver of risk.",
+      "latest_reasons": {
+        "schedule": "Critical milestone(s) late: Configuration and Build phase, Production & Cutover.",
+        "budget": "Budget actuals/planned-to-date not provided \u2014 flagged for follow-up.",
+        "milestones": "2 milestones are overdue: Configuration and Build phase, Production & Cutover.",
+        "blockers": "3 open blockers \u2014 escalating volume of unresolved issues.",
+        "sentiment": "Stakeholder tone is negative but not escalating."
+      },
+      "latest_dimension_labels": {
+        "schedule": "Red",
+        "budget": "Amber",
+        "milestones": "Red",
+        "blockers": "Red",
+        "sentiment": "Amber"
+      },
+      "recommended_action": "Escalate the open blocker(s) to the steering committee this week; they are the primary driver of risk."
+    },
+    "UniSan S2P Implementation": {
+      "trajectory": [
+        "Amber"
+      ],
+      "week_endings": [
+        "2026-07-02"
+      ],
+      "trend": "stable",
+      "latest_status": "Amber",
+      "latest_narrative": "**UniSan S2P Implementation \u2014 Overall status: Amber**\n- Schedule (Red): Critical milestone(s) late: Training Phase I.\n- Budget (Amber): Budget actuals/planned-to-date not provided \u2014 flagged for follow-up.\n- Milestones (Amber): 1 milestone is overdue: Training Phase I.\n- Blockers (Green): No open blockers.\n- Sentiment (Amber): Stakeholder tone is negative but not escalating.\n\n**Recommended action:** Re-baseline the schedule with the client and confirm recovery plan for the at-risk milestone(s).",
+      "latest_reasons": {
+        "schedule": "Critical milestone(s) late: Training Phase I.",
+        "budget": "Budget actuals/planned-to-date not provided \u2014 flagged for follow-up.",
+        "milestones": "1 milestone is overdue: Training Phase I.",
+        "blockers": "No open blockers.",
+        "sentiment": "Stakeholder tone is negative but not escalating."
+      },
+      "latest_dimension_labels": {
+        "schedule": "Red",
+        "budget": "Amber",
+        "milestones": "Amber",
+        "blockers": "Green",
+        "sentiment": "Amber"
+      },
+      "recommended_action": "Re-baseline the schedule with the client and confirm recovery plan for the at-risk milestone(s)."
+    }
+  },
+  "portfolio": {
+    "total_projects": 2,
+    "projects_declining": [],
+    "projects_improving": [],
+    "projects_stable_red": [
+      "Titan (Outokumpu) S2P Implementation"
+    ],
+    "recurring_blockers": {},
+    "overspending_instances": [],
+    "weeks_with_negative_sentiment": 2,
+    "current_rag_mix": {
+      "Red": 1,
+      "Amber": 1,
+      "Green": 0
+    }
+  },
+  "deck": {
+    "trend_notes": [
+      {
+        "project": "Titan (Outokumpu) S2P Implementation",
+        "title": "Titan (Outokumpu) S2P Implementation \u2014 Stable",
+        "body": "Trajectory: Red. Held steady across all 1 reporting weeks at Red.",
+        "color_key": "red"
+      },
+      {
+        "project": "UniSan S2P Implementation",
+        "title": "UniSan S2P Implementation \u2014 Stable",
+        "body": "Trajectory: Amber. Held steady across all 1 reporting weeks at Amber.",
+        "color_key": "amber"
+      }
+    ],
+    "risks": [
+      {
+        "title": "No Significant Cross-Project Risk Patterns Detected",
+        "body": "No recurring blockers, correlated overspend, or leading-sentiment patterns were detected across the portfolio this period."
+      }
+    ],
+    "spotlight_project": "Titan (Outokumpu) S2P Implementation",
+    "spotlight_bottom_line": "Critical milestone(s) late: Configuration and Build phase, Production & Cutover. This requires executive-level attention this cycle \u2014 Escalate the open blocker(s) to the steering committee this week; they are the primary driver of risk.",
+    "recommendations": [
+      {
+        "title": "Address the Titan (Outokumpu) S2P Implementation schedule issue this week",
+        "body": "Critical milestone(s) late: Configuration and Build phase, Production & Cutover."
+      }
+    ]
+  }
+}
