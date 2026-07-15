@@ -1,0 +1,92 @@
+{
+  "project_name": "Titan (Outokumpu) S2P Implementation",
+  "week_ending": "2026-07-02",
+  "generated_at": "2026-07-10T17:38:36.143117",
+  "overall_status": "Red",
+  "weighted_score": 0.3,
+  "dimension_status": {
+    "schedule": "Red",
+    "budget": "Amber",
+    "milestones": "Red",
+    "blockers": "Red",
+    "sentiment": "Amber"
+  },
+  "dimension_reasons": {
+    "schedule": "Critical milestone(s) late: Configuration and Build phase, Production & Cutover.",
+    "budget": "Budget actuals/planned-to-date not provided \u2014 flagged for follow-up.",
+    "milestones": "2 milestones are overdue: Configuration and Build phase, Production & Cutover.",
+    "blockers": "3 open blockers \u2014 escalating volume of unresolved issues.",
+    "sentiment": "Stakeholder tone is negative but not escalating."
+  },
+  "override_reasons": [
+    "Override: 2+ milestones overdue."
+  ],
+  "narrative": "**Titan (Outokumpu) S2P Implementation \u2014 Overall status: Red**\n- Schedule (Red): Critical milestone(s) late: Configuration and Build phase, Production & Cutover.\n- Budget (Amber): Budget actuals/planned-to-date not provided \u2014 flagged for follow-up.\n- Milestones (Red): 2 milestones are overdue: Configuration and Build phase, Production & Cutover.\n- Blockers (Red): 3 open blockers \u2014 escalating volume of unresolved issues.\n- Sentiment (Amber): Stakeholder tone is negative but not escalating.\n**Escalation flags:** Override: 2+ milestones overdue.\n\n**Recommended action:** Escalate the open blocker(s) to the steering committee this week; they are the primary driver of risk.",
+  "narrative_source": "template (offline fallback)",
+  "data_quality_notes": [
+    "budget: insufficient_budget_data"
+  ],
+  "raw_metrics": {
+    "schedule": {
+      "pct_late": 3.9,
+      "late_tasks": [
+        "Configuration and Build phase",
+        "Functional Confuguration on Staging System/ Setup",
+        "Update configurations based as per IAD (Solution Design) using agreed Commodity, Division Tree & Project Stages",
+        "Supplier Information Management with Integration",
+        "iSupplier Deployment",
+        "Repo Sample Supplier Upload on STAGING for iSource/iContract/iRisk",
+        "Design & Development on STAGING Set UP",
+        "Supplier Notification template",
+        "OTK to share D&B creds",
+        "Enable D & B App",
+        "Production & Cutover",
+        "Supplier data to be provided by Customer",
+        "Data Load-Historical and bulk upload - iContract",
+        "Onboard and Introduce TAM team to Customer",
+        "Walkthrough of post hypercare support process by TAM team",
+        "eInvoice outbound",
+        "eInvoice integration use cases discussion-Invoice,creditmemo,payment,apportionment",
+        "eProc Direct & Indirect",
+        "eProc integration use cases discussion-create,edit,cancel,close"
+      ],
+      "critical_milestone_late": [
+        "Configuration and Build phase",
+        "Production & Cutover"
+      ],
+      "flags": []
+    },
+    "budget": {
+      "burn_ratio": null,
+      "flags": [
+        "insufficient_budget_data"
+      ]
+    },
+    "milestones": {
+      "overdue": [
+        "Configuration and Build phase",
+        "Production & Cutover"
+      ],
+      "at_risk_soon": [
+        "Hyper Care(Measure and Adoption) Solution",
+        "Configuration Documentation workshop"
+      ],
+      "flags": []
+    },
+    "blockers": {
+      "count": 3,
+      "items": [
+        "Due to parallel phase 1 activities onsite workshop dates are impacted (Sarika Arthmwar, 05/18/26 7:31 AM)",
+        "JDE mapping is pending only (Sarika Arthmwar, 06/26/26 2:39 PM)",
+        "JDE field mapping remain to complete for PO outbound & GR Inbound @vinayaka.soratoor@zycus.com (Sarika Arthmwar, 06/26/26 2:40 PM)"
+      ],
+      "critical": [],
+      "flags": []
+    },
+    "sentiment": {
+      "label": "negative",
+      "trend": "stable",
+      "rationale": "Heuristic keyword match (1 negative, 0 positive cues)."
+    }
+  }
+}
