@@ -1,0 +1,61 @@
+{
+  "project_name": "Cascade Vendor Onboarding",
+  "week_ending": "2026-06-05",
+  "generated_at": "2026-07-10T17:52:24.438197",
+  "overall_status": "Amber",
+  "weighted_score": 1.25,
+  "dimension_status": {
+    "schedule": "Green",
+    "budget": "Amber",
+    "milestones": "Amber",
+    "blockers": "Amber",
+    "sentiment": "Amber"
+  },
+  "dimension_reasons": {
+    "schedule": "Only 0.0% of tasks are behind schedule.",
+    "budget": "Spend is 115% of planned \u2014 overspending.",
+    "milestones": "No milestones defined in the plan \u2014 flagged for follow-up.",
+    "blockers": "1 open blocker(s): Vendor unable to provide sandbox credentials for onboarding integration.",
+    "sentiment": "Stakeholder tone is neutral."
+  },
+  "override_reasons": [],
+  "narrative": "**Cascade Vendor Onboarding \u2014 Overall status: Amber**\n- Schedule (Green): Only 0.0% of tasks are behind schedule.\n- Budget (Amber): Spend is 115% of planned \u2014 overspending.\n- Milestones (Amber): No milestones defined in the plan \u2014 flagged for follow-up.\n- Blockers (Amber): 1 open blocker(s): Vendor unable to provide sandbox credentials for onboarding integration.\n- Sentiment (Amber): Stakeholder tone is neutral.\n\n**Recommended action:** Monitor closely next week; no client-facing escalation needed yet, but flag internally.",
+  "narrative_source": "template (offline fallback)",
+  "data_quality_notes": [
+    "milestones: no_milestones_found"
+  ],
+  "raw_metrics": {
+    "schedule": {
+      "pct_late": 0.0,
+      "late_tasks": [],
+      "critical_milestone_late": [],
+      "flags": []
+    },
+    "budget": {
+      "burn_ratio": 1.15,
+      "planned": 20000.0,
+      "actual": 23000.0,
+      "flags": []
+    },
+    "milestones": {
+      "overdue": [],
+      "at_risk_soon": [],
+      "flags": [
+        "no_milestones_found"
+      ]
+    },
+    "blockers": {
+      "count": 1,
+      "items": [
+        "Vendor unable to provide sandbox credentials for onboarding integration"
+      ],
+      "critical": [],
+      "flags": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "trend": "stable",
+      "rationale": "Heuristic keyword match (0 negative, 0 positive cues)."
+    }
+  }
+}
