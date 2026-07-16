@@ -1,0 +1,67 @@
+{
+  "project_name": "Helix ERP Rollout",
+  "week_ending": "2026-06-05",
+  "generated_at": "2026-07-10T17:52:24.398605",
+  "overall_status": "Red",
+  "weighted_score": 0.75,
+  "dimension_status": {
+    "schedule": "Red",
+    "budget": "Green",
+    "milestones": "Amber",
+    "blockers": "Red",
+    "sentiment": "Amber"
+  },
+  "dimension_reasons": {
+    "schedule": "Critical milestone(s) late: Integration Testing.",
+    "budget": "Spend is on track (102% of planned burn).",
+    "milestones": "1 milestone is overdue: Integration Testing.",
+    "blockers": "Critical blocker(s) open: Critical: no owner assigned to integration testing, blocking go-live readiness.",
+    "sentiment": "Stakeholder tone is negative but not escalating."
+  },
+  "override_reasons": [
+    "Override: critical blocker open."
+  ],
+  "narrative": "**Helix ERP Rollout \u2014 Overall status: Red**\n- Schedule (Red): Critical milestone(s) late: Integration Testing.\n- Budget (Green): Spend is on track (102% of planned burn).\n- Milestones (Amber): 1 milestone is overdue: Integration Testing.\n- Blockers (Red): Critical blocker(s) open: Critical: no owner assigned to integration testing, blocking go-live readiness.\n- Sentiment (Amber): Stakeholder tone is negative but not escalating.\n**Escalation flags:** Override: critical blocker open.\n\n**Recommended action:** Escalate the open blocker(s) to the steering committee this week; they are the primary driver of risk.",
+  "narrative_source": "template (offline fallback)",
+  "data_quality_notes": [],
+  "raw_metrics": {
+    "schedule": {
+      "pct_late": 10.0,
+      "late_tasks": [
+        "Integration Testing"
+      ],
+      "critical_milestone_late": [
+        "Integration Testing"
+      ],
+      "flags": []
+    },
+    "budget": {
+      "burn_ratio": 1.02,
+      "planned": 40000.0,
+      "actual": 41000.0,
+      "flags": []
+    },
+    "milestones": {
+      "overdue": [
+        "Integration Testing"
+      ],
+      "at_risk_soon": [],
+      "flags": []
+    },
+    "blockers": {
+      "count": 1,
+      "items": [
+        "Critical: no owner assigned to integration testing, blocking go-live readiness"
+      ],
+      "critical": [
+        "Critical: no owner assigned to integration testing, blocking go-live readiness"
+      ],
+      "flags": []
+    },
+    "sentiment": {
+      "label": "negative",
+      "trend": "stable",
+      "rationale": "Heuristic keyword match (3 negative, 0 positive cues)."
+    }
+  }
+}
