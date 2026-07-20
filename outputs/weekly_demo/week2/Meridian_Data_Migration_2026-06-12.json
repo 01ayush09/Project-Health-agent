@@ -1,0 +1,61 @@
+{
+  "project_name": "Meridian Data Migration",
+  "week_ending": "2026-06-12",
+  "generated_at": "2026-07-10T17:52:24.365727",
+  "overall_status": "Amber",
+  "weighted_score": 0.9,
+  "dimension_status": {
+    "schedule": "Amber",
+    "budget": "Amber",
+    "milestones": "Amber",
+    "blockers": "Amber",
+    "sentiment": "Red"
+  },
+  "dimension_reasons": {
+    "schedule": "9.1% of tasks are behind schedule \u2014 worth watching.",
+    "budget": "Spend is 115% of planned \u2014 overspending.",
+    "milestones": "Milestone(s) due within 2 weeks at risk: Environment Build.",
+    "blockers": "1 open blocker(s): Vendor API access delayed for legacy system connector.",
+    "sentiment": "Stakeholder tone is negative and worsening."
+  },
+  "override_reasons": [],
+  "narrative": "**Meridian Data Migration \u2014 Overall status: Amber**\n- Schedule (Amber): 9.1% of tasks are behind schedule \u2014 worth watching.\n- Budget (Amber): Spend is 115% of planned \u2014 overspending.\n- Milestones (Amber): Milestone(s) due within 2 weeks at risk: Environment Build.\n- Blockers (Amber): 1 open blocker(s): Vendor API access delayed for legacy system connector.\n- Sentiment (Red): Stakeholder tone is negative and worsening.\n\n**Recommended action:** Monitor closely next week; no client-facing escalation needed yet, but flag internally.",
+  "narrative_source": "template (offline fallback)",
+  "data_quality_notes": [],
+  "raw_metrics": {
+    "schedule": {
+      "pct_late": 9.1,
+      "late_tasks": [
+        "Legacy field extraction task 1"
+      ],
+      "critical_milestone_late": [],
+      "flags": []
+    },
+    "budget": {
+      "burn_ratio": 1.15,
+      "planned": 130000.0,
+      "actual": 149500.0,
+      "flags": []
+    },
+    "milestones": {
+      "overdue": [],
+      "at_risk_soon": [
+        "Environment Build"
+      ],
+      "flags": []
+    },
+    "blockers": {
+      "count": 1,
+      "items": [
+        "Vendor API access delayed for legacy system connector"
+      ],
+      "critical": [],
+      "flags": []
+    },
+    "sentiment": {
+      "label": "negative",
+      "trend": "worsening",
+      "rationale": "Heuristic keyword match (2 negative, 0 positive cues)."
+    }
+  }
+}
