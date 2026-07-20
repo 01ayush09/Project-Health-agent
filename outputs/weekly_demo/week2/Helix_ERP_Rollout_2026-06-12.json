@@ -1,0 +1,56 @@
+{
+  "project_name": "Helix ERP Rollout",
+  "week_ending": "2026-06-12",
+  "generated_at": "2026-07-10T17:52:24.406365",
+  "overall_status": "Amber",
+  "weighted_score": 1.45,
+  "dimension_status": {
+    "schedule": "Green",
+    "budget": "Amber",
+    "milestones": "Amber",
+    "blockers": "Green",
+    "sentiment": "Amber"
+  },
+  "dimension_reasons": {
+    "schedule": "Only 0.0% of tasks are behind schedule.",
+    "budget": "Spend is 112% of planned \u2014 overspending.",
+    "milestones": "Milestone(s) due within 2 weeks at risk: Integration Testing.",
+    "blockers": "No open blockers.",
+    "sentiment": "Stakeholder tone is neutral."
+  },
+  "override_reasons": [],
+  "narrative": "**Helix ERP Rollout \u2014 Overall status: Amber**\n- Schedule (Green): Only 0.0% of tasks are behind schedule.\n- Budget (Amber): Spend is 112% of planned \u2014 overspending.\n- Milestones (Amber): Milestone(s) due within 2 weeks at risk: Integration Testing.\n- Blockers (Green): No open blockers.\n- Sentiment (Amber): Stakeholder tone is neutral.\n\n**Recommended action:** Monitor closely next week; no client-facing escalation needed yet, but flag internally.",
+  "narrative_source": "template (offline fallback)",
+  "data_quality_notes": [],
+  "raw_metrics": {
+    "schedule": {
+      "pct_late": 0.0,
+      "late_tasks": [],
+      "critical_milestone_late": [],
+      "flags": []
+    },
+    "budget": {
+      "burn_ratio": 1.12,
+      "planned": 90000.0,
+      "actual": 100800.0,
+      "flags": []
+    },
+    "milestones": {
+      "overdue": [],
+      "at_risk_soon": [
+        "Integration Testing"
+      ],
+      "flags": []
+    },
+    "blockers": {
+      "count": 0,
+      "critical": [],
+      "flags": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "trend": "stable",
+      "rationale": "Heuristic keyword match (0 negative, 0 positive cues)."
+    }
+  }
+}
