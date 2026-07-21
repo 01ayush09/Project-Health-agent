@@ -1,0 +1,88 @@
+{
+  "project_name": "UniSan S2P Implementation",
+  "week_ending": "2026-07-02",
+  "generated_at": "2026-07-10T17:38:35.565488",
+  "overall_status": "Amber",
+  "weighted_score": 0.95,
+  "dimension_status": {
+    "schedule": "Red",
+    "budget": "Amber",
+    "milestones": "Amber",
+    "blockers": "Green",
+    "sentiment": "Amber"
+  },
+  "dimension_reasons": {
+    "schedule": "Critical milestone(s) late: Training Phase I.",
+    "budget": "Budget actuals/planned-to-date not provided \u2014 flagged for follow-up.",
+    "milestones": "1 milestone is overdue: Training Phase I.",
+    "blockers": "No open blockers.",
+    "sentiment": "Stakeholder tone is negative but not escalating."
+  },
+  "override_reasons": [],
+  "narrative": "**UniSan S2P Implementation \u2014 Overall status: Amber**\n- Schedule (Red): Critical milestone(s) late: Training Phase I.\n- Budget (Amber): Budget actuals/planned-to-date not provided \u2014 flagged for follow-up.\n- Milestones (Amber): 1 milestone is overdue: Training Phase I.\n- Blockers (Green): No open blockers.\n- Sentiment (Amber): Stakeholder tone is negative but not escalating.\n\n**Recommended action:** Re-baseline the schedule with the client and confirm recovery plan for the at-risk milestone(s).",
+  "narrative_source": "template (offline fallback)",
+  "data_quality_notes": [
+    "budget: insufficient_budget_data"
+  ],
+  "raw_metrics": {
+    "schedule": {
+      "pct_late": 6.5,
+      "late_tasks": [
+        "Training Phase I",
+        "Train The Trainer",
+        "Admin Training",
+        "eProc, eInvoice and Merlin APSD Configuration Documentation Workshop",
+        "eProc, eInvoice and Merlin APSD Configuration Documentation",
+        "Integration Design",
+        "Review of TDD and share feedback with Zycus",
+        "Sign off on TDD",
+        "Integration development at UniSan - as applicable",
+        "eProc Integration: Completion of Design",
+        "Integration Design",
+        "Review of TDD and share feedback with Zycus",
+        "Sign off on TDD",
+        "eProc Integration: Completion of Design",
+        "Mapping activity for Integration",
+        "UniSan to provide supplier bulk upload data in the template provided by Zycus from UniSan's Staging environment",
+        "Zycus to review the files and provide feedback",
+        "UniSan to provide updated bulk upload data",
+        "Zycus to bulk upload supplier data on STAGING setup",
+        "UniSan to review bulk uploaded data",
+        "UniSan to sign off on supplier bulk upload",
+        "Integration Design",
+        "Review of TDD and share feedback with Zycus",
+        "Sign off on TDD",
+        "eInvoice Integration: Completion of Design"
+      ],
+      "critical_milestone_late": [
+        "Training Phase I"
+      ],
+      "flags": []
+    },
+    "budget": {
+      "burn_ratio": null,
+      "flags": [
+        "insufficient_budget_data"
+      ]
+    },
+    "milestones": {
+      "overdue": [
+        "Training Phase I"
+      ],
+      "at_risk_soon": [
+        "Hypercare Phase I"
+      ],
+      "flags": []
+    },
+    "blockers": {
+      "count": 0,
+      "critical": [],
+      "flags": []
+    },
+    "sentiment": {
+      "label": "negative",
+      "trend": "stable",
+      "rationale": "Heuristic keyword match (1 negative, 0 positive cues)."
+    }
+  }
+}
