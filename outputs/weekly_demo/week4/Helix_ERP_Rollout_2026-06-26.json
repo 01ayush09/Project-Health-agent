@@ -1,0 +1,54 @@
+{
+  "project_name": "Helix ERP Rollout",
+  "week_ending": "2026-06-26",
+  "generated_at": "2026-07-10T17:52:24.424744",
+  "overall_status": "Green",
+  "weighted_score": 2.0,
+  "dimension_status": {
+    "schedule": "Green",
+    "budget": "Green",
+    "milestones": "Green",
+    "blockers": "Green",
+    "sentiment": "Green"
+  },
+  "dimension_reasons": {
+    "schedule": "Only 0.0% of tasks are behind schedule.",
+    "budget": "Spend is on track (102% of planned burn).",
+    "milestones": "All milestones on track.",
+    "blockers": "No open blockers.",
+    "sentiment": "Stakeholder tone is positive."
+  },
+  "override_reasons": [],
+  "narrative": "**Helix ERP Rollout \u2014 Overall status: Green**\n- Schedule (Green): Only 0.0% of tasks are behind schedule.\n- Budget (Green): Spend is on track (102% of planned burn).\n- Milestones (Green): All milestones on track.\n- Blockers (Green): No open blockers.\n- Sentiment (Green): Stakeholder tone is positive.\n\n**Recommended action:** No action needed \u2014 maintain current cadence.",
+  "narrative_source": "template (clean Green \u2014 LLM call skipped)",
+  "data_quality_notes": [],
+  "raw_metrics": {
+    "schedule": {
+      "pct_late": 0.0,
+      "late_tasks": [],
+      "critical_milestone_late": [],
+      "flags": []
+    },
+    "budget": {
+      "burn_ratio": 1.02,
+      "planned": 210000.0,
+      "actual": 214200.0,
+      "flags": []
+    },
+    "milestones": {
+      "overdue": [],
+      "at_risk_soon": [],
+      "flags": []
+    },
+    "blockers": {
+      "count": 0,
+      "critical": [],
+      "flags": []
+    },
+    "sentiment": {
+      "label": "positive",
+      "trend": "stable",
+      "rationale": "Heuristic keyword match (0 negative, 2 positive cues)."
+    }
+  }
+}
