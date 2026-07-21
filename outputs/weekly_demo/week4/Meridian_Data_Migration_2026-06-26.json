@@ -1,0 +1,76 @@
+{
+  "project_name": "Meridian Data Migration",
+  "week_ending": "2026-06-26",
+  "generated_at": "2026-07-10T17:52:24.383894",
+  "overall_status": "Red",
+  "weighted_score": 0.0,
+  "dimension_status": {
+    "schedule": "Red",
+    "budget": "Red",
+    "milestones": "Red",
+    "blockers": "Red",
+    "sentiment": "Red"
+  },
+  "dimension_reasons": {
+    "schedule": "Critical milestone(s) late: Environment Build, Connector Cutover Readiness Review.",
+    "budget": "Spend is 135% of planned \u2014 significantly overspending.",
+    "milestones": "2 milestones are overdue: Environment Build, Connector Cutover Readiness Review.",
+    "blockers": "Critical blocker(s) open: Critical: vendor unable to deliver API access, now directly blocking cutover readiness.",
+    "sentiment": "Stakeholder tone is negative and worsening."
+  },
+  "override_reasons": [
+    "Override: critical blocker open.",
+    "Override: 2+ milestones overdue.",
+    "Override: schedule, budget, milestones, blockers scored Red, compounded by negative, worsening sentiment."
+  ],
+  "narrative": "**Meridian Data Migration \u2014 Overall status: Red**\n- Schedule (Red): Critical milestone(s) late: Environment Build, Connector Cutover Readiness Review.\n- Budget (Red): Spend is 135% of planned \u2014 significantly overspending.\n- Milestones (Red): 2 milestones are overdue: Environment Build, Connector Cutover Readiness Review.\n- Blockers (Red): Critical blocker(s) open: Critical: vendor unable to deliver API access, now directly blocking cutover readiness.\n- Sentiment (Red): Stakeholder tone is negative and worsening.\n**Escalation flags:** Override: critical blocker open. Override: 2+ milestones overdue. Override: schedule, budget, milestones, blockers scored Red, compounded by negative, worsening sentiment.\n\n**Recommended action:** Escalate the open blocker(s) to the steering committee this week; they are the primary driver of risk.",
+  "narrative_source": "template (offline fallback)",
+  "data_quality_notes": [],
+  "raw_metrics": {
+    "schedule": {
+      "pct_late": 50.0,
+      "late_tasks": [
+        "Environment Build",
+        "Connector Cutover Readiness Review",
+        "Legacy field extraction task 1",
+        "Legacy field extraction task 2",
+        "Legacy field extraction task 3",
+        "Legacy field extraction task 4"
+      ],
+      "critical_milestone_late": [
+        "Environment Build",
+        "Connector Cutover Readiness Review"
+      ],
+      "flags": []
+    },
+    "budget": {
+      "burn_ratio": 1.35,
+      "planned": 260000.0,
+      "actual": 351000.0,
+      "flags": []
+    },
+    "milestones": {
+      "overdue": [
+        "Environment Build",
+        "Connector Cutover Readiness Review"
+      ],
+      "at_risk_soon": [],
+      "flags": []
+    },
+    "blockers": {
+      "count": 1,
+      "items": [
+        "Critical: vendor unable to deliver API access, now directly blocking cutover readiness"
+      ],
+      "critical": [
+        "Critical: vendor unable to deliver API access, now directly blocking cutover readiness"
+      ],
+      "flags": []
+    },
+    "sentiment": {
+      "label": "negative",
+      "trend": "worsening",
+      "rationale": "Heuristic keyword match (6 negative, 0 positive cues)."
+    }
+  }
+}
