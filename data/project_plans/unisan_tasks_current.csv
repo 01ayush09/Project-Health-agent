@@ -1,0 +1,383 @@
+task_name,planned_end,actual_end,percent_complete,milestone,owner
+Contract Sign Off,2026-02-11,,100,Y,
+Contract signing between UniSan and Zycus,2026-02-11,,100,N,"UniSan Project Sponsor, Zycus Sales"
+Contract Sign Off,2026-02-11,,100,N,
+Project Initiation and Data Gathering,2026-03-17,,100,Y,
+Project Kick Off,2026-03-10,,100,N,
+Review Contract Scope,2026-02-23,,100,N,Zycus Project Resources Manager
+Assign Project Team and Internal communication,2026-02-23,,100,N,Zycus Project Resources Manager
+Zycus Project Team mobilization and Team alignment,2026-02-23,,100,N,Zycus Project Resources Manager
+"Setup Project [Server, Email alias, Internal Applications, Central Drive, Internal ticket for STAGING Set Up]",2026-03-05,,100,N,Zycus Project Team
+Sales / PreSales / Pilots handover,2026-02-25,,100,N,"Zycus Project Manager, Zycus Project Team, Zycus Sales"
+Pre-kick off meeting with internal stakeholders,2026-02-26,,100,N,"Zycus Project Manager, Zycus Project Team, Zycus Sales"
+Finalize kick off meeting schedule,2026-02-23,,100,N,"UniSan Project Manager, UniSan Project Sponsor, Zycus Sales"
+Review SOW with UniSan,2026-02-24,,100,N,"UniSan Project Sponsor, Zycus Project Manager"
+Kick off meeting [Introduction Meeting],2026-02-24,,100,N,"UniSan Core Project Team, UniSan Project Manager, Zycus Consultant, Zycus Product Specialist, Zycus Project Manager, Zycus Project Team"
+"Share Product specific templates [Questionnaire, User Details template, Legacy Data Upload] with UniSan",2026-02-25,,100,N,"Zycus Product Specialist, Zycus Project Manager"
+Setup Value Introduction kick-off call,2026-03-10,,100,N,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+Zycus Project Set-Up,2026-03-05,,100,N,
+Kick-off Meeting,2026-02-24,,100,N,
+Implementation Questionnaire and Staging Setup,2026-03-17,,100,N,
+STAGING Set Up,2026-03-13,,100,N,
+Company creation on Zycus STAGING environment,2026-03-09,,100,N,Zycus Product Specialist
+NFR (Non-Functional Requirement) Finalization and sign-off,2026-03-06,,100,N,"UniSan Core Project Team, Zycus Project Team"
+Configure staging setup with base configuration,2026-03-12,,100,N,Zycus Product Specialist
+Value Definition Discussion,2026-03-11,,100,N,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+Value Definition Review and Follow-up,2026-03-13,,100,N,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+Value Definition Sign-off,2026-03-13,,100,N,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+Quality Reviews,2026-03-17,,100,N,
+Schedule quality toll,2026-03-13,,100,N,Zycus Product Specialist
+"Perform quality checks, PSRs as per quality checklist and submit to QC team",2026-03-16,,100,N,Zycus Product Specialist
+Quality Check by Zycus QC team,2026-03-17,,100,N,Zycus Quality Team
+Implementation Questionnaire and Staging Setup,2026-03-17,,100,N,
+Configuration Validation & Documentation,2026-04-27,,100,Y,
+Requirement Workshop,2026-04-27,,100,N,
+CLM Configuration Documentation Workshop,2026-04-17,,100,N,"UniSan Project Team, UniSan SME, Zycus Project Team"
+iSupplier Configuration Documentation Workshop,2026-04-15,,100,N,"UniSan Project Team, UniSan SME, Zycus Project Team"
+Integration Configuration Documentation Workshop,2026-04-27,,100,N,"UniSan Project Team, UniSan SME, Zycus Project Team"
+Configuration Documentation,2026-04-22,,100,N,
+iContract Documentation with Merlin,2026-04-20,,100,N,"UniSan Core Project Team, UniSan Project Manager, Zycus Merlin Product Team, Zycus Project Manager, Zycus Project Team"
+iSupplier Configuration Documentation,2026-04-16,,100,N,"UniSan Core Project Team, UniSan Project Manager, Zycus Merlin Product Team, Zycus Project Manager, Zycus Project Team"
+IAD Review for iSupplier and iContract,2026-04-21,,100,N,UniSan Project Manager
+UniSan to review and Sign-off IAD Draft- iSupplier and iContract,2026-04-22,,100,N,
+Value Realization Target Discussion,2026-03-16,,100,N,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+Configuration Documentation concluded,2026-04-22,,100,N,
+First draft IAD Sign-off,2026-04-22,,100,N,
+Single Sign On and User details Integration,2026-04-16,,100,Y,
+Single Sign On - SSO,2026-04-16,,100,N,
+Availability of Technical Team from Customer,2026-03-13,,100,N,UniSan Project Manager
+Design and Analysis,2026-04-10,,100,N,
+Zycus to share Process flow of SSO integration,2026-03-18,,100,N,Zycus SSO Team
+Exchange of configuration files,2026-03-19,,100,N,"UniSan IT Team, Zycus SSO Team"
+Exchange of certificates to be used,2026-04-10,,100,N,"UniSan IT Team, Zycus SSO Team"
+Approach to be used for Single Sign On [Claims/Email Address etc.],2026-04-10,,100,N,"UniSan IT Team, Zycus SSO Team"
+Configuration and Review,2026-04-16,,100,N,
+Development [STAGING] Environment,2026-04-16,,100,N,
+Registration of Service Provider URL for client,2026-04-13,,100,N,Zycus SSO Team
+Registration TMS URL specific to client,2026-04-13,,100,N,Zycus SSO Team
+Configuration of Web Server for service Provider application,2026-04-14,,100,N,Zycus SSO Team
+Service Provider application deployment for client and sanity of the deployed setup,2026-04-14,,100,N,Zycus SSO Team
+Configuration of Service Provider setup using below mentioned files,2026-04-14,,100,N,Zycus SSO Team
+"Issue Resolution, if any",2026-04-16,,100,N,Zycus SSO Team
+Sign off of SSO on STAGING Environment,2026-04-16,,100,N,UniSan IT Team
+SSO: Completion of Design & Analysis,2026-04-10,,100,N,
+SSO: Completion of Development and Testing,2026-04-16,,100,N,
+Contract Management with Basic Setup,2026-05-05,,100,Y,
+iContract Deployment (Repository + Authoring),2026-05-05,,100,N,
+Functional Configuration on STAGING set Up,2026-05-05,,100,N,
+User Role Configuration,2026-04-23,,100,N,Zycus Product Specialist
+Admin Settings Configuration,2026-04-24,,100,N,Zycus Product Specialist
+Readiness for Pre-UAT,2026-04-24,,100,N,Zycus Product Specialist
+Pre-UAT,2026-05-05,,100,N,
+Pre-UAT - Provide End to end walkthrough of configured iContract to UniSan,2026-04-28,,100,N,"UniSan Core Project Team, Zycus Consultant, Zycus Product Specialist"
+Provide feedback - if any for iContract configuration,2026-04-30,,100,N,UniSan Project Team
+Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],2026-05-04,,100,N,"Zycus Consultant, Zycus Product Specialist"
+Sign off on Pre-UAT and final version of IAD sign off,2026-05-04,,100,N,UniSan Project Manager
+WordConnect Installation at UniSan's end,2026-05-05,,100,N,"UniSan IT Team, UniSan Project Manager"
+iContract: Conclude Functional Configuration,2026-05-04,,100,N,
+Supplier Information Management with Integration,2026-05-15,,100,Y,
+iSupplier Deployment,2026-05-06,,100,N,
+Design & Development on STAGING Set UP,2026-05-06,,100,N,
+"Users,Roles,Workflow & View Definition Configuration",2026-04-28,,100,N,
+"Configure User Roles, View Definition and Workflow as per IAD",2026-04-27,,100,N,Zycus Product Specialist
+UniSan to provide feedback,2026-04-28,,100,N,"UniSan Core Project Team, UniSan Subject Matter Expert"
+Pre-UAT on STAGING Set UP,2026-05-06,,100,N,
+Pre-UAT - Provide End to end walkthrough of configured iSupplier to UniSan,2026-04-30,,100,N,"Zycus Consultant, Zycus Product Specialist"
+Provide feedback - if any for iSupplier configuration,2026-05-04,,100,N,UniSan Project Team
+Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],2026-05-06,,100,N,Zycus Consultant
+Sign off on Pre-UAT and final version of IAD,2026-05-06,,100,N,"UniSan Project Manager, Zycus Project Manager"
+iSupplier: Conclude Functional Configuration,2026-05-06,,100,N,
+Value KPI Report creation on Staging,2026-05-08,,100,N,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+Value KPI Report demo on Staging,2026-05-15,,100,N,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+User Acceptance Testing (UAT) Phase I,2026-05-20,,100,Y,
+Prepare for UAT,2026-05-13,,100,N,
+Prepare the UAT Approach,2026-05-05,,100,N,"Zycus Product Specialist, Zycus Project Manager"
+Finalize and agree on UAT Approach,2026-05-06,,100,N,"UniSan Core Project Team, UniSan Project Manager"
+Provide users & roles on STAGING required for UAT,2026-05-08,,100,N,"UniSan Project Manager, UniSan Project Team, UniSan SME"
+Create users on STAGING set for UAT group,2026-05-13,,100,N,Zycus Product Specialist
+Provide Standard Test Cases,2026-05-08,,100,N,"Zycus Consultant, Zycus Product Specialist"
+Finalize Test Cases,2026-05-12,,100,N,UniSan Core Project Team
+Quality Reviews,2026-05-08,,100,N,
+Schedule for quality check,2026-05-07,,100,N,Zycus Product Specialist
+"Perform quality checks, PSRs as per quality checklist and submit to QC team",2026-05-08,,100,N,Zycus Product Specialist
+Quality Check by Zycus QC team,2026-05-08,,100,N,Zycus Quality Team
+End-to-End UAT,2026-05-20,,100,N,
+UAT for iContract and iSupplier,2026-05-18,,100,N,UniSan Core Project Team
+Defect Analysis & UAT Feedback incorporation and share Test Closure Memo,2026-05-19,,100,N,Zycus Project Team
+UniSan to provide sign off on Test Closure Memo,2026-05-20,,100,N,"UniSan Core Project Team, UniSan Project Manager"
+UAT Completion I,2026-05-20,,100,Y,
+Value KPI Sign-off,2026-05-18,,100,Y,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+Training Phase I,2026-05-28,,77.0,Y,
+Training Preparation,2026-05-21,,100,N,
+Training Approach and Schedule finalization,2026-05-20,,100,N,"UniSan Project Manager, Zycus Project Manager, Zycus University"
+Training Agenda Finalization,2026-05-21,,100,N,"UniSan Project Manager, Zycus University Trainer"
+Train The Trainer,2026-05-28,,60.0,N,
+iContract + Merlin for Contract Training,2026-05-25,,100,N,"UniSan Project Team, Zycus University Trainer"
+iSupplier Training,2026-05-26,,100,N,"UniSan Project Team, Zycus University Trainer"
+Admin Training,2026-05-28,,0,N,"UniSan Project Team, Zycus University Trainer"
+Training Completion,2026-05-28,,100,Y,
+Production Migration Phase I,2026-06-03,,100,Y,
+Migration of Solution from STAGING Environment to PRODUCTION,2026-06-03,,100,N,
+Log ticket for PRODUCTION tenant creation,2026-05-19,,100,N,Zycus Product Specialist
+Configuration migration to PRODUCTION for iContract & iSupplier,2026-05-28,,100,N,Zycus Product Specialist
+Provide the final list of users to be created on PRODUCTION,2026-05-25,,100,N,"UniSan Holdings SME, UniSan Project Manager, TKC Holdings Project Team"
+Creation of Specified Users as per roles,2026-06-01,,100,N,Zycus Product Specialist
+WordConnect Installation at UniSan's end,2026-06-01,,100,N,"UniSan IT Team, UniSan Project Manager"
+Migration of SSO,2026-06-03,,100,N,
+PRODUCTION setup with standard configuration,2026-05-26,,100,N,Zycus SSO Team
+Exchange of certificates to be used,2026-05-28,,100,N,"UniSan IT Team, Zycus SSO Team"
+Registration of Service Provider URL for client,2026-05-29,,100,N,Zycus SSO Team
+Registration TMS URL specific to client,2026-05-28,,100,N,Zycus SSO Team
+Configuration of Web Server for service Provider application,2026-05-29,,100,N,Zycus SSO Team
+Service Provider application deployment for client and sanity of the deployed setup,2026-05-29,,100,N,Zycus SSO Team
+Raise internal ticket for configuration of service provider set up & PRODUCTION URL Change,2026-05-26,,100,N,Zycus SSO Team
+Configuration of Service Provider setup,2026-05-29,,100,N,Zycus SSO Team
+PRODUCTION URL change,2026-06-02,,100,N,
+Configuring DSSO URL for all the respective product,2026-06-01,,100,N,Zycus SSO Team
+Testing of SSO login on PRODUCTION set up,2026-06-02,,100,N,"UniSan IT Team, TKC Holdings Project Team"
+Sign off on SSO Implementation,2026-06-03,,100,N,UniSan Project Manager
+Quality Reviews,2026-06-03,,100,N,
+Schedule for quality check,2026-06-02,,100,N,Zycus Product Specialist
+"Perform quality checks, PSRs as per quality checklist and submit to QC team",2026-06-03,,100,N,Zycus Product Specialist
+Quality Check by Zycus QC team,2026-06-03,,100,N,Zycus Quality Team
+KPI Reports to be migrated on PROD,2026-06-01,,100,Y,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+Sanity on Production for iContract and iSupplier,2026-06-05,,100,Y,"UniSan IT Team, UniSan Integration Team, UniSan Project Manager, UniSan SME, UniSan Subject Matter Expert"
+Go /No-go Check Point ( Meeting with UniSan) for iContract & iSupplier,2026-06-08,,100,Y,UniSan Project Manager
+Release Zycus system to all users  for iContract and iSupplier,2026-06-08,,100,Y,Zycus Product Specialist
+Production Go-Live Phase I,2026-06-08,,100,Y,
+Hypercare Phase I,2026-07-06,,25.0,Y,"UniSan IT Team, UniSan Integration Team, UniSan Project Group, Zycus Consultant, Zycus Integration Team, Zycus Product Specialist, Zycus Project Manager"
+Configuration Validation & Documentation,2026-07-22,,26.0,Y,
+Requirement Workshop,2026-07-15,,51.0,N,
+iSource Configuration Documentation Workshop,2026-07-02,,80.0,N,"UniSan Project Team, UniSan SME, Zycus Project Team"
+"eProc, eInvoice and Merlin APSD Configuration Documentation Workshop",2026-06-26,,50.0,N,"UniSan Project Team, UniSan SME, Zycus Project Team"
+CLM Additional Approval Workflow Documentation Workshop,2026-07-08,,0,N,"UniSan Project Team, UniSan SME, Zycus Project Team"
+Merlin Intake Configuration Documentation Workshop,2026-07-15,,80.0,N,"UniSan Project Team, UniSan SME, Zycus Project Team"
+"Integration Configuration Documentation Workshop ( eInovoice, iContract)",2026-07-03,,0,N,"UniSan Project Team, UniSan SME, Zycus Project Team"
+Configuration Documentation,2026-07-22,,0,N,
+iSource Configuration Documentation,2026-07-03,,0,N,"UniSan Core Project Team, UniSan Project Manager, Zycus Merlin Product Team, Zycus Project Manager, Zycus Project Team"
+"eProc, eInvoice and Merlin APSD Configuration Documentation",2026-06-29,,0,N,"UniSan Core Project Team, UniSan Project Manager, Zycus Merlin Product Team, Zycus Project Manager, Zycus Project Team"
+CLM Configuration Documentation,2026-07-09,,0,N,"UniSan Core Project Team, UniSan Project Manager, Zycus Merlin Product Team, Zycus Project Manager, Zycus Project Team"
+iSupplier Configuration Documentation,2026-07-09,,0,N,"UniSan Core Project Team, UniSan Project Manager, Zycus Merlin Product Team, Zycus Project Manager, Zycus Project Team"
+Merlin Intake Configuration Documentation,2026-07-16,,0,N,"UniSan Core Project Team, UniSan Project Manager, Zycus Merlin Product Team, Zycus Project Manager, Zycus Project Team"
+IAD Review for all modules,2026-07-20,,0,N,UniSan Project Manager
+UniSan to review and Sign-off IAD Draft,2026-07-21,,0,N,UniSan Project Manager
+Value Realization Target Discussion,2026-07-22,,0,N,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+Configuration Documentation concluded,2026-07-22,,0,N,
+First draft IAD Sign-off,2026-07-21,,0,N,
+eProc and eInvoice and Merlin APSD,2026-08-04,,21.0,Y,
+eProc-einvoice Deployment,2026-07-20,,8.0,N,
+Functional Configuration Finalization on STAGING set Up,2026-07-20,,8.0,N,
+User Roles configuration,2026-07-03,,50.0,N,Zycus Product Specialist
+Admin settings configuration,2026-07-07,,0,N,Zycus Product Specialist
+Readiness for Pre-UAT,2026-07-08,,0,N,Zycus Product Specialist
+Pre-UAT on STAGING,2026-07-20,,0,N,
+Pre-UAT - Provide End to end walkthrough of configured eProc and eInvoice to the Customer,2026-07-10,,0,N,"Zycus Consultant, Zycus Product Specialist"
+Provide feedback - if any for eProc configuration,2026-07-15,,0,N,UniSan Project Manager
+Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],2026-07-20,,0,N,"Zycus Consultant, Zycus Product Specialist"
+Sign off on Pre-UAT and final version of IAD,2026-07-20,,0,N,UniSan Project Manager
+eProc : Conclude Functional Configuration,2026-07-20,,0,N,
+Integrations eproc,2026-07-09,,47.0,N,
+eProc Integration with SAP for Purchase order,2026-07-09,,47.0,N,
+Integration Design,2026-06-24,,88.0,N,
+Mapping activity for Integration,2026-06-22,,100,N,"UniSan Integration Team, Zycus Integration Specialist"
+Share TDD for interface,2026-06-23,,100,N,Zycus Integration Lead
+Review of TDD and share feedback with Zycus,2026-06-24,,50.0,N,UniSan Integration Team
+Sign off on TDD,2026-06-24,,0,N,UniSan Integration Team
+Development and Testing on STAGING Set Up,2026-07-09,,32.0,N,
+Integration set up and development at Zycus,2026-07-03,,90.0,N,Zycus Integration Specialist
+Integration development at UniSan - as applicable,2026-07-01,,0,N,UniSan Integration Team
+Integration Unit Testing and Feedback Incorporation,2026-07-06,,0,N,Zycus Integration Team
+Systems Integration Testing,2026-07-09,,0,N,
+SIT on STAGING Set Up,2026-07-09,,0,N,"UniSan Integration Team, Zycus Integration Team"
+Sign off on SIT,2026-07-09,,0,N,UniSan Integration Team
+eProc Integration: Completion of Design,2026-06-24,,0,N,
+eProc Integration: Completion of Development and Testing,2026-07-09,,0,N,
+eProc Integration: Completion of SIT,2026-07-09,,0,N,
+Integrations ASN,2026-07-14,,42.0,N,
+eProc Integration with SAP for Purchase order,2026-07-14,,42.0,N,
+Integration Design,2026-06-25,,83.0,N,
+Mapping activity for Integration,2026-06-23,,100,N,"UniSan Integration Team, Zycus Integration Specialist"
+Share TDD for interface,2026-06-24,,100,N,Zycus Integration Lead
+Review of TDD and share feedback with Zycus,2026-06-25,,50.0,N,UniSan Integration Team
+Sign off on TDD,2026-06-25,,0,N,UniSan Integration Team
+Development and Testing on STAGING Set Up,2026-07-14,,32.0,N,
+Integration set up and development at Zycus,2026-07-02,,90.0,N,Zycus Integration Specialist
+Integration development at UniSan - as applicable,2026-07-02,,0,N,UniSan Integration Team
+Integration Unit Testing and Feedback Incorporation,2026-07-03,,0,N,Zycus Integration Team
+Systems Integration Testing,2026-07-14,,0,N,
+SIT on STAGING Set Up,2026-07-14,,0,N,"UniSan Integration Team, Zycus Integration Team"
+Sign off on SIT,2026-07-14,,0,N,UniSan Integration Team
+eProc Integration: Completion of Design,2026-06-25,,0,N,
+eProc Integration: Completion of Development and Testing,2026-07-14,,0,N,
+eProc Integration: Completion of SIT,2026-07-14,,0,N,
+Integrations eInvoice,2026-08-04,,0,N,
+eInvoice Integration,2026-08-04,,0,N,
+Integration Design,2026-07-06,,0,N,
+Mapping activity for Integration,2026-07-01,,0,N,"UniSan Integration Team, Zycus Integration Specialist"
+Share TDD for interface,2026-07-02,,0,N,Zycus Integration Lead
+Review of TDD and share feedback with Zycus,2026-07-03,,0,N,UniSan Integration Team
+Sign off on TDD,2026-07-06,,0,N,UniSan Integration Team
+Development and Testing on STAGING Set Up,2026-08-04,,0,N,
+Integration set up and development at Zycus,2026-07-21,,0,N,Zycus Integration Specialist
+Integration development at UniSan - as applicable,2026-07-28,,0,N,UniSan Integration Team
+Integration Unit Testing and Feedback Incorporation,2026-07-30,,0,N,Zycus Integration Team
+Systems Integration Testing,2026-08-04,,0,N,
+SIT on STAGING Set Up,2026-08-04,,0,N,"UniSan Integration Team, Zycus Integration Team"
+Sign off on SIT,2026-08-04,,0,N,UniSan Integration Team
+eInvoice Integration: Completion of Design,2026-07-06,,0,N,
+eInvoice Integration: Completion of Development and Testing,2026-08-04,,0,N,
+eInvoice Integration: Completion of SIT,2026-08-04,,0,N,
+Contract Management with Basic Setup,2026-08-07,,3.0,Y,
+iContract Deployment (Repository + Authoring),2026-07-28,,0,N,
+Functional Configuration on STAGING set Up,2026-07-28,,0,N,
+User Role Configuration,2026-07-22,,0,N,Zycus Product Specialist
+Admin Settings Configuration,2026-07-22,,0,N,Zycus Product Specialist
+Readiness for Pre-UAT,2026-07-23,,0,N,Zycus Product Specialist
+Pre-UAT,2026-07-28,,0,N,
+Pre-UAT - Provide End to end walkthrough of configured iContract to UniSan,2026-07-24,,0,N,"UniSan Core Project Team, Zycus Consultant, Zycus Product Specialist"
+Provide feedback - if any for iContract configuration,2026-07-28,,0,N,UniSan Project Team
+Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],2026-07-28,,0,N,"Zycus Consultant, Zycus Product Specialist"
+Sign off on Pre-UAT and final version of IAD sign off,2026-07-28,,0,N,UniSan Project Manager
+iContract: Conclude Functional Configuration,2026-08-04,,0,N,
+"Historical contracts Bulk Upload [up to 25,000 contracts]",2026-08-07,,5.0,N,
+Zycus to provide walkthrough of shared template to UniSan,2026-07-14,,40.0,N,"UniSan Project Team, Zycus Product Specialist"
+UniSan to provide historical contracts details for Bulk Upload,2026-07-16,,40.0,N,UniSan IT Team
+Zycus to review shared details and provide feedback - if any,2026-07-16,,0,N,Zycus Product Specialist
+UniSan to incorporate feedback and provide revised final details of historical contracts for bulk upload into iContract,2026-07-20,,0,N,UniSan IT Team
+Zycus to ensure supplier details availability in STAGING,2026-07-20,,0,N,Zycus Product Specialist
+Zycus to bulk upload historical contracts details in STGAING [10 contracts for each Type/Subtype],2026-07-22,,0,N,Zycus Product Specialist
+UniSan to review uploaded details and provide go ahead for bulk upload into PRODUCTION,2026-07-24,,0,N,UniSan Project Team
+Zycus to bulk upload historical contracts details in Production,2026-08-07,,0,N,Zycus Product Specialist
+Supplier Information Management with Integration,2026-08-11,,12.0,Y,
+iSupplier Deployment,2026-08-11,,13.0,N,
+Design & Development on STAGING Set UP,2026-08-11,,13.0,N,
+"Users,Roles,Workflow & View Definition Configuration",2026-07-22,,0,N,
+"Configure User Roles, View Definition and Workflow as per IAD",2026-07-22,,0,N,Zycus Product Specialist
+UniSan to provide feedback,2026-07-22,,0,N,"UniSan Core Project Team, UniSan Subject Matter Expert"
+Pre-UAT on STAGING Set UP,2026-07-22,,5.0,N,
+Pre-UAT - Provide End to end walkthrough of configured iSupplier to UniSan,2026-07-22,,0,N,"Zycus Consultant, Zycus Product Specialist"
+Provide feedback - if any for iSupplier configuration,2026-07-22,,0,N,UniSan Project Team
+Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],2026-07-22,,0,N,Zycus Consultant
+Sign off on Pre-UAT and final version of IAD,2026-07-22,,0,N,"UniSan Project Manager, Zycus Project Manager"
+Supplier Bulk Upload on STAGING,2026-07-15,,5.0,N,
+UniSan to provide supplier bulk upload data in the template provided by Zycus from UniSan's Staging environment,2026-06-12,,50.0,N,"UniSan IT Project Manager, UniSan IT Team, UniSan Project Manager"
+Zycus to review the files and provide feedback,2026-06-15,,50.0,N,Zycus Product Specialist
+UniSan to provide updated bulk upload data,2026-06-24,,0,N,"UniSan IT Project Manager, UniSan IT Team, UniSan Project Manager"
+Zycus to bulk upload supplier data on STAGING setup,2026-06-26,,0,N,Zycus Product Specialist
+UniSan to review bulk uploaded data,2026-07-01,,0,N,UniSan Core Project Team
+UniSan to sign off on supplier bulk upload,2026-07-01,,0,N,UniSan Project Manager
+UniSan Prod migration Supplier,2026-07-15,,0,N,Zycus Product Specialist
+Integration iSupplier,2026-07-16,,38.0,N,
+iSupplier Integration,2026-07-16,,38.0,N,
+Integration Design,2026-06-30,,63.0,N,
+Mapping activity for Integration,2026-06-25,,100,N,"UniSan Integration Team, Zycus Integration Specialist"
+Share TDD for interface,2026-06-26,,100,N,Zycus Integration Lead
+Review of TDD and share feedback with Zycus,2026-06-29,,50.0,N,UniSan Integration Team
+Sign off on TDD,2026-06-30,,0,N,UniSan Integration Team
+Development and Testing on STAGING Set Up,2026-07-16,,29.0,N,
+Integration set up and development at Zycus,2026-07-10,,80.0,N,Zycus Integration Specialist
+Integration development at UniSan - as applicable,2026-07-07,,0,N,UniSan Integration Team
+Integration Unit Testing and Feedback Incorporation,2026-07-14,,0,N,Zycus Integration Team
+Systems Integration Testing,2026-07-16,,0,N,
+SIT on STAGING Set Up,2026-07-16,,0,N,"UniSan Integration Team, Zycus Integration Team"
+Sign off on SIT,2026-07-16,,0,N,UniSan Integration Team
+eInvoice Integration: Completion of Design,2026-06-30,,0,N,
+eInvoice Integration: Completion of Development and Testing,2026-07-16,,0,N,
+eInvoice Integration: Completion of SIT,2026-07-16,,0,N,
+Integration iSupplier - Exiger,2026-08-11,,0,N,
+iSupplier Integration,2026-08-11,,0,N,
+Integration Design,2026-07-28,,0,N,
+Mapping activity for Integration,2026-07-23,,0,N,"UniSan Integration Team, Zycus Integration Specialist"
+Share TDD for interface,2026-07-24,,0,N,Zycus Integration Lead
+Review of TDD and share feedback with Zycus,2026-07-27,,0,N,UniSan Integration Team
+Sign off on TDD,2026-07-28,,0,N,UniSan Integration Team
+Development and Testing on STAGING Set Up,2026-08-11,,0,N,
+Integration set up and development at Zycus,2026-08-04,,0,N,Zycus Integration Specialist
+Integration development at UniSan - as applicable,2026-08-04,,0,N,UniSan Integration Team
+Integration Unit Testing and Feedback Incorporation,2026-08-06,,0,N,Zycus Integration Team
+Systems Integration Testing,2026-08-11,,0,N,
+SIT on STAGING Set Up,2026-08-11,,0,N,"UniSan Integration Team, Zycus Integration Team"
+Sign off on SIT,2026-08-11,,0,N,UniSan Integration Team
+eInvoice Integration: Completion of Design,2026-07-28,,0,N,
+eInvoice Integration: Completion of Development and Testing,2026-08-11,,0,N,
+eInvoice Integration: Completion of SIT,2026-08-11,,0,N,
+iSupplier: Conclude Functional Configuration,2026-07-22,,0,N,
+Value KPI Report creation on Staging,2026-07-24,,0,N,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+Value KPI Report demo on Staging,2026-07-28,,0,N,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+iSource Configuration,2026-08-06,,0,Y,
+iSource Deployment,2026-08-06,,0,N,
+Functional Configuration Finalization on STAGING set Up,2026-08-06,,0,N,
+User Roles configuration,2026-07-22,,0,N,Zycus Product Specialist
+Admin settings configuration,2026-07-24,,0,N,Zycus Product Specialist
+Readiness for Pre-UAT,2026-07-28,,0,N,Zycus Product Specialist
+Pre-UAT on STAGING,2026-08-06,,0,N,
+Pre-UAT - Provide End to end walkthrough of configured iSource to the Customer,2026-07-30,,0,N,"Zycus Consultant, Zycus Product Specialist"
+Provide feedback - if any for iSource configuration,2026-08-04,,0,N,UniSan Project Manager
+Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],2026-08-06,,0,N,"Zycus Consultant, Zycus Product Specialist"
+Sign off on Pre-UAT and final version of IAD,2026-08-06,,0,N,UniSan Project Manager
+iSource : Conclude Functional Configuration,2026-08-06,,0,N,
+Merlin Intake Configuration,2026-08-05,,0,Y,
+Merlin intake Deployment,2026-08-05,,0,N,
+Functional Configuration Finalization on STAGING set Up,2026-08-05,,0,N,
+User Roles configuration,2026-07-22,,0,N,Zycus Product Specialist
+Admin settings configuration,2026-07-24,,0,N,Zycus Product Specialist
+Readiness for Pre-UAT,2026-07-28,,0,N,Zycus Product Specialist
+Pre-UAT on STAGING,2026-08-05,,0,N,
+Pre-UAT - Provide End to end walkthrough of configured Merlin Intake to the Customer,2026-07-30,,0,N,"Zycus Consultant, Zycus Product Specialist"
+Provide feedback - if any for Merlin Intake configuration,2026-08-03,,0,N,UniSan Project Manager
+Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],2026-08-05,,0,N,"Zycus Consultant, Zycus Product Specialist"
+Sign off on Pre-UAT and final version of IAD,2026-08-05,,0,N,UniSan Project Manager
+Merlin Intake : Conclude Functional Configuration,2026-08-05,,0,N,
+User Acceptance Testing (UAT) Phase II,2026-08-24,,0,Y,
+Prepare for UAT,2026-08-12,,0,N,
+Prepare the UAT Approach,2026-08-07,,0,N,"Zycus Product Specialist, Zycus Project Manager"
+Finalize and agree on UAT Approach,2026-08-10,,0,N,"UniSan Core Project Team, UniSan Project Manager"
+Provide users & roles on STAGING required for UAT,2026-08-10,,0,N,"UniSan Project Manager, UniSan Project Team, UniSan SME"
+Create users on STAGING set for UAT group,2026-08-11,,0,N,Zycus Product Specialist
+Provide Standard Test Cases,2026-08-11,,0,N,"Zycus Consultant, Zycus Product Specialist"
+Finalize Test Cases,2026-08-12,,0,N,UniSan Core Project Team
+Quality Reviews,2026-08-10,,0,N,
+Schedule for quality check,2026-08-07,,0,N,Zycus Product Specialist
+"Perform quality checks, PSRs as per quality checklist and submit to QC team",2026-08-10,,0,N,Zycus Product Specialist
+Quality Check by Zycus QC team,2026-08-10,,0,N,Zycus Quality Team
+End-to-End UAT,2026-08-24,,0,N,
+UAT Intake and iSource,2026-08-17,,0,N,UniSan Core Project Team
+Defect Analysis & UAT Feedback incorporation and share Test Closure Memo,2026-08-18,,0,N,Zycus Project Team
+UniSan to provide sign off on Test Closure Memo,2026-08-20,,0,N,"UniSan Core Project Team, UniSan Project Manager"
+"UAT iSupplier, eProc, eInvoice and CLM",2026-08-19,,0,N,UniSan Core Project Team
+Defect Analysis & UAT Feedback incorporation and share Test Closure Memo,2026-08-20,,0,N,Zycus Project Team
+UniSan to provide sign off on Test Closure Memo,2026-08-24,,0,N,"UniSan Core Project Team, UniSan Project Manager"
+UAT Completion,2026-08-24,,0,Y,
+Value KPI Sign-off,2026-07-28,,0,Y,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+Training Phase II,2026-09-02,,0,Y,
+Training Preparation,2026-08-19,,0,N,
+Training Approach and Schedule finalization,2026-08-18,,0,N,"UniSan Project Manager, Zycus Project Manager, Zycus University"
+Training Agenda Finalization,2026-08-19,,0,N,"UniSan Project Manager, Zycus University Trainer"
+Train The Trainer,2026-09-02,,0,N,
+iContract + Merlin for Contract Training,2026-08-26,,0,N,"UniSan Project Team, Zycus University Trainer"
+iSource Training,2026-08-21,,0,N,"UniSan Project Team, Zycus University Trainer"
+eProc Training,2026-08-28,,0,N,"UniSan Project Team, Zycus University Trainer"
+eInvoice and Merlin APSD Training,2026-08-31,,0,N,"UniSan Project Team, Zycus University Trainer"
+Merlin Intake,2026-08-24,,0,N,"UniSan Project Team, Zycus University Trainer"
+Admin Training,2026-09-02,,0,N,"UniSan Project Team, Zycus University Trainer"
+Training Completion,2026-09-02,,0,Y,
+Production Migration Phase II,2026-09-07,,0,Y,
+Migration of Solution from STAGING Environment to PRODUCTION,2026-09-07,,0,N,
+Configuration migration to PRODUCTION - iSource and Merlin Intake,2026-08-25,,0,N,Zycus Product Specialist
+"Configuration migration to PRODUCTION -  iSupplier, eProc, eInvoice and CLM",2026-08-31,,0,N,Zycus Product Specialist
+Provide the final list of users to be created on PRODUCTION,2026-08-24,,0,N,"UniSan Holdings SME, UniSan Project Manager, TKC Holdings Project Team"
+Creation of Specified Users as per roles,2026-08-28,,0,N,Zycus Product Specialist
+Migrate integration code to Prod,2026-09-07,,0,N,UniSan Integration Team
+Quality Reviews,2026-09-01,,0,N,
+Schedule for quality check,2026-08-31,,0,N,Zycus Product Specialist
+"Perform quality checks, PSRs as per quality checklist and submit to QC team",2026-09-01,,0,N,Zycus Product Specialist
+Quality Check by Zycus QC team,2026-09-01,,0,N,Zycus Quality Team
+Sanity on Production - iSource and Merlin Intake,2026-09-02,,0,Y,"UniSan IT Team, UniSan Integration Team, UniSan Project Manager, UniSan SME, UniSan Subject Matter Expert"
+Go /No-go Check Point ( Meeting with UniSan) - iSource and Merlin Intake,2026-09-03,,0,Y,UniSan Project Manager
+Release Zycus system to all users -  iSource and Merlin Intake,2026-09-04,,0,Y,Zycus Product Specialist
+KPI Reports to be migrated on PROD,2026-09-02,,0,Y,"UniSan Project Group, Zycus Product Specialist, Zycus Project Manager"
+"Sanity on Production  -  iSupplier, eProc, eInvoice and CLM",2026-09-09,,0,Y,"UniSan IT Team, UniSan Integration Team, UniSan Project Manager, UniSan SME, UniSan Subject Matter Expert"
+"Go /No-go Check Point ( Meeting with UniSan)  -  iSupplier, eProc, eInvoice and CLM",2026-09-10,,0,Y,UniSan Project Manager
+"Release Zycus system to all users  -  iSupplier, eProc, eInvoice and CLM",2026-09-11,,0,Y,Zycus Product Specialist
+Production Go-Live Phase II,2026-09-11,,0,Y,
+Hypercare Phase II,2026-10-09,,0,Y,"UniSan IT Team, UniSan Integration Team, UniSan Project Group, Zycus Consultant, Zycus Integration Team, Zycus Product Specialist, Zycus Project Manager"
