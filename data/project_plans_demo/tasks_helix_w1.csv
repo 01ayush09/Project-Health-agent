@@ -1,0 +1,11 @@
+task_name,planned_end,actual_end,percent_complete,milestone,owner
+Integration Testing,2026-06-01,,30,yes,
+Chart of Accounts Config,2026-05-28,2026-05-28,100,no,N. Mehta
+UAT prep task 1,2026-06-20,,50,no,N. Mehta
+UAT prep task 2,2026-06-20,,50,no,N. Mehta
+UAT prep task 3,2026-06-20,,50,no,N. Mehta
+UAT prep task 4,2026-06-20,,50,no,N. Mehta
+UAT prep task 5,2026-06-20,,50,no,N. Mehta
+UAT prep task 6,2026-06-20,,50,no,N. Mehta
+UAT prep task 7,2026-06-20,,50,no,N. Mehta
+UAT prep task 8,2026-06-20,,50,no,N. Mehta
