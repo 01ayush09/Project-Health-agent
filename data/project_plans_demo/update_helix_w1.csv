@@ -1,0 +1,2 @@
+week_ending,total_budget,budget_planned_to_date,budget_actual_to_date,open_blockers,stakeholder_notes,pm_comments
+2026-06-05,300000,40000,41000,"Critical: no owner assigned to integration testing, blocking go-live readiness","Client is concerned that ownership of integration testing is unclear, and sees this as a risk to go-live.",Flagged to resourcing lead same day.
