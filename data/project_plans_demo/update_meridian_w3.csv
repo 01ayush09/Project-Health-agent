@@ -1,0 +1,2 @@
+week_ending,total_budget,budget_planned_to_date,budget_actual_to_date,open_blockers,stakeholder_notes,pm_comments
+2026-06-19,500000,200000,236000,Vendor API access delayed for legacy system connector; Legacy extraction owner unclear for two tasks,Client is frustrated with the continued vendor delay and worried about downstream slippage; risk of missing the connector milestone is rising.,Raised to steering committee informally; formal escalation planned if unresolved by next week.
