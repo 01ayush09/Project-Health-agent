@@ -1,0 +1,2 @@
+week_ending,total_budget,budget_planned_to_date,budget_actual_to_date,open_blockers,stakeholder_notes,pm_comments
+2026-06-26,500000,260000,351000,"Critical: vendor unable to deliver API access, now directly blocking cutover readiness","Client is now clearly concerned and frustrated, worried the vendor delay puts the go-live date at real risk, and confidence is slipping.",Formally escalated to the vendor's leadership and to our steering committee this week.
