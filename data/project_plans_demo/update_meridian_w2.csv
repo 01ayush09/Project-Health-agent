@@ -1,0 +1,2 @@
+week_ending,total_budget,budget_planned_to_date,budget_actual_to_date,open_blockers,stakeholder_notes,pm_comments
+2026-06-12,500000,130000,149500,Vendor API access delayed for legacy system connector,Team is concerned about the vendor delay pushing the connector work out.,"Escalated to vendor account manager, awaiting response."
